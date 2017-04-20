@@ -1,2 +1,2 @@
 # Hello-world
-just my repository
+hi,man. This is my fist txt file.
